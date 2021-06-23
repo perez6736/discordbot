@@ -1,0 +1,45 @@
+bot ideas becasue i cant remember this stuff.. 
+
+meme - doge pepe and others... 
+everyone starts at with default memes and using the commands gives each user a chance to unlock rare memes
+then they can show off they have rare pepe on discord and stuff like that.. like collocting cards 
+
+trivia - failed in group me so im doing this 
+
+translation app..
+- detect if a message is not in english - then translate it 
+- im sure google has an api or something. 
+
+cilo - DONE 
+
+rock paper scissors - DONE
+
+coin 
+
+fak key and fkm rgn 
+
+cool guy - classic 
+
+hang man - user that starts the game can use whatever word or pharse he wants and the game will start in channel he posted 
+
+mute someone if they are sending too many messages too often - mute for 30 seconds - unmute 
+
+
+game that calculates time and activitty on server --- this will be the time sink. 
+- and converts that time and activity on server to xp and gold 
+- with gold and stff you can buy itesm thhat will be available in a shop (at rndom) 
+- everyone starts of as human race and can switch race (free first time after that it costs) 
+- get gold and items from posting stuff that gets lots of reactions 
+- do raids with buddies on chat and get nice item drops 
+- and of course be able to fight each other
+
+chess via discord 
+- play chess by sending chess notation to discord 
+- showing a visual will be cool 
+
+
+-- i will probably need a database 
+- express.js for server 
+- mysql for DB 
+https://top.gg/bot/555955826880413696
+https://discord.js.org/#/

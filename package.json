@@ -1,0 +1,20 @@
+{
+  "name": "discordvipertattoos",
+  "version": "1.0.0",
+  "description": "This is a discord bot to make fun of my dumb friends since i live in Japan and not awake to do that",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "test",
+    "dev": "nodemon bot.js"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.1.7",
+    "discord.js": "^12.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
